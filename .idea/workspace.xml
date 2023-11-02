@@ -4,10 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b336773d-c511-43bb-9908-ae977c54e0c9" name="Changes" comment="add_sem_2">
-      <change afterPath="$PROJECT_DIR$/src/dz_2/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dz_2/MainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dz_2/Plate.java" afterDir="false" />
+    <list default="true" id="b336773d-c511-43bb-9908-ae977c54e0c9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/sem_3_1/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem_3_1/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem_3_1/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem_3_1/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem_3_2_dz/AgeComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem_3_2_dz/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem_3_2_dz/EmployeeFabric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem_3_2_dz/Freelancer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem_3_2_dz/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem_3_2_dz/SalaryComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem_3_2_dz/Worker.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +46,8 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -46,7 +55,7 @@
       <recent name="dz_1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MainClass">
+  <component name="RunManager" selected="Application.Program">
     <configuration name="Championship" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sem_2_3.Championship" />
       <module name="java_OOP" />
@@ -74,24 +83,11 @@
       </method>
     </configuration>
     <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dz_1.Program" />
+      <option name="MAIN_CLASS_NAME" value="sem_3_2_dz.Program" />
       <module name="java_OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dz_1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="sem_2_1.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sem_2_1.Program" />
-      <module name="java_OOP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sem_2_1.*" />
+          <option name="PATTERN" value="sem_3_2_dz.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,13 +108,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="sem_3_1.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sem_3_1.Program" />
+      <module name="java_OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sem_3_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Program" />
+        <item itemvalue="Application.sem_3_1.Program" />
         <item itemvalue="Application.MainClass" />
         <item itemvalue="Application.Championship" />
         <item itemvalue="Application.sem_2_2.Program" />
-        <item itemvalue="Application.sem_2_1.Program" />
-        <item itemvalue="Application.Program" />
       </list>
     </recent_temporary>
   </component>
@@ -145,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697814562157</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add_dz_2">
+      <created>1698317630036</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1698317630036</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -162,6 +178,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add_dz_1" />
     <MESSAGE value="add_sem_2" />
-    <option name="LAST_COMMIT_MESSAGE" value="add_sem_2" />
+    <MESSAGE value="add_dz_2" />
+    <option name="LAST_COMMIT_MESSAGE" value="add_dz_2" />
   </component>
 </project>
