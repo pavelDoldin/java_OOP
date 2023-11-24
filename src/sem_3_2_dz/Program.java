@@ -1,9 +1,6 @@
 package sem_3_2_dz;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
-import java.util.Random;
+import java.util.*;
 
 public class Program {
     public static void main(String[] args) {
@@ -31,8 +28,24 @@ public class Program {
 
         for (Employee employee: employees) {
             System.out.println(employee);
-
         }
+
+        //Collections.sort(employees, new  AgeComparator()); // отсартирует по age
+//
+        //System.out.println("---------------");
+//
+        //for (Employee employee: employees) {
+        //    System.out.println(employee);
+        //}
+
+        System.out.println("_______________");
+
+        Collections.sort(employees, new NameComparator()); // отсартирует имена
+
+        for (Employee employee : employees) {
+            System.out.println(employee);
+        }
+
 
 
 //

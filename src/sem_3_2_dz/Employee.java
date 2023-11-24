@@ -44,13 +44,23 @@ public abstract class Employee implements Comparable<Employee> {
      */
     protected double salary;
 
+    public String getName() {
+        return name;
+    }
+
+    public int getAge() {
+        return age;
+    }
+
     /**
      * Расчёт среднемесячной заработной платы
      *
      */
     public abstract double calculateSalary();
 
+
     public abstract int ageEmployee();
+
 
 
     @Override
