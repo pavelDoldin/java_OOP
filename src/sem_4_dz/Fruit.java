@@ -4,7 +4,7 @@ public abstract class Fruit {
     /**
      * Вес фрукта
      */
-    private final float weight;
+    protected final float weight;
 
 
     public float getWeight() {
@@ -16,5 +16,8 @@ public abstract class Fruit {
         this.weight = weight;
     }
 
-
+    @Override
+    public String toString() {
+        return String.format("Вес фрукта %.2f", weight);
+    }
 }

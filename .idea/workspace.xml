@@ -5,24 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b336773d-c511-43bb-9908-ae977c54e0c9" name="Changes" comment="add_sem_3_2_dz">
-      <change afterPath="$PROJECT_DIR$/src/sem_3_2_dz/NameComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sem_4_1/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sem_4_1/CreditAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sem_4_1/DebitAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sem_4_1/Entity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sem_4_1/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sem_4_1/PersonalData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sem_4_1/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sem_4_1/Transaction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sem_4_dz/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sem_4_dz/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sem_4_dz/Fruit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sem_4_dz/Orange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sem_4_dz/Program.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sem_3_2_dz/AgeComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem_3_2_dz/AgeComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sem_3_2_dz/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem_3_2_dz/Employee.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/sem_3_2_dz/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem_3_2_dz/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sem_4_dz/Apple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem_4_dz/Apple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sem_4_dz/Box.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem_4_dz/Box.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sem_4_dz/Fruit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem_4_dz/Fruit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sem_4_dz/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem_4_dz/Program.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +50,7 @@
       <recent name="dz_1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Program">
+  <component name="RunManager" selected="Application.sem_4_dz.Program">
     <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dz_2.MainClass" />
       <module name="java_OOP" />
@@ -130,8 +118,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Program" />
         <item itemvalue="Application.sem_4_dz.Program" />
+        <item itemvalue="Application.Program" />
         <item itemvalue="Application.sem_4_1.Program" />
         <item itemvalue="Application.sem_3_1.Program" />
         <item itemvalue="Application.MainClass" />

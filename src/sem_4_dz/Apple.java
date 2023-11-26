@@ -1,8 +1,20 @@
 package sem_4_dz;
 
-public class Apple extends Fruit{
+import java.util.ArrayList;
+import java.util.Random;
 
-    private int weightBox;
+public class Apple extends Fruit {
+
+    protected int weightBox;
+
+    public int getWeightBox() {
+        return weightBox;
+    }
+
+    public Apple(float weight, int weightBox) {
+        super(weight);
+        this.weightBox = weightBox;
+    }
 
     public Apple() {
         super(1.0f);
@@ -10,12 +22,8 @@ public class Apple extends Fruit{
     }
 
 
-    public int getWeightBox() {
-        return weightBox;
-    }
-
     @Override
     public String toString() {
-        return String.format("Фруктов в ящике %s", weightBox);
+        return String.format("Вес яблока %d", weightBox);
     }
 }

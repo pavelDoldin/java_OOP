@@ -30,13 +30,13 @@ public class Program {
             System.out.println(employee);
         }
 
-        //Collections.sort(employees, new  AgeComparator()); // отсартирует по age
-//
-        //System.out.println("---------------");
-//
-        //for (Employee employee: employees) {
-        //    System.out.println(employee);
-        //}
+        Collections.sort(employees, new  AgeComparator()); // отсартирует по age
+
+        System.out.println("---------------");
+
+        for (Employee employee: employees) {
+            System.out.println(employee);
+        }
 
         System.out.println("_______________");
 

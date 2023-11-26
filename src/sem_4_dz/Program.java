@@ -26,16 +26,48 @@ public class Program {
 
     public static void main(String[] args) {
 
+        Apple apple = new Apple();
 
 
-        Box<Apple> appleBox = new Box<>();
-        appleBox = Box.generateBox();
-
+        Box<Apple> appleBox =  new Box<>();
+        appleBox.add(apple);
+        appleBox.add(apple);
+        appleBox.add(apple);
+        appleBox.add(apple);
+        appleBox.add(apple);
+        appleBox.add(apple);
         System.out.println(appleBox);
 
+        Box<Apple> appleBox1 = new Box<>();
+
+        appleBox.to(appleBox1);
+
+
+        System.out.println(appleBox1);
+
+
+        Orange orange = new Orange();
+
         Box<Orange> orangeBox = new Box<>();
-        orangeBox = Box.generateBox();
+        orangeBox.add(orange);
+        orangeBox.add(orange);
+        orangeBox.add(orange);
+        orangeBox.add(orange);
         System.out.println(orangeBox);
+
+        System.out.println(appleBox.compare(orangeBox));
+
+        //System.out.println("-----------------");
+//
+        //Box<Orange> orangeBox = new Box<>();
+        //orangeBox.addFruit(orange);
+        //orangeBox.addFruit(orange);
+        //orangeBox.addFruit(orange);
+//
+        //System.out.println(orangeBox);
+//
+        //Box<Orange> orangeBox = Box.generateBox();
+        //System.out.println(orangeBox);
 
     }
 }
