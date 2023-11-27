@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b336773d-c511-43bb-9908-ae977c54e0c9" name="Changes" comment="add_sem_3_2_dz" />
+    <list default="true" id="b336773d-c511-43bb-9908-ae977c54e0c9" name="Changes" comment="add_sem_3_2_dz">
+      <change afterPath="$PROJECT_DIR$/src/sem_5_dz/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem_5_dz/models/Reservation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem_5_dz/models/Table.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem_5_dz/models/TableModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem_5_dz/presenters/BookingPresenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem_5_dz/presenters/Model.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem_5_dz/presenters/View.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem_5_dz/presenters/ViewObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem_5_dz/views/BookingView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,8 +24,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -43,20 +54,7 @@
       <recent name="dz_1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.sem_4_dz.Program">
-    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dz_2.MainClass" />
-      <module name="java_OOP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dz_2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.sem_5_dz.Program">
     <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sem_3_2_dz.Program" />
       <module name="java_OOP" />
@@ -109,13 +107,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="sem_5_dz.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sem_5_dz.Program" />
+      <module name="java_OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sem_5_dz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.sem_5_dz.Program" />
         <item itemvalue="Application.sem_4_dz.Program" />
         <item itemvalue="Application.Program" />
         <item itemvalue="Application.sem_4_1.Program" />
         <item itemvalue="Application.sem_3_1.Program" />
-        <item itemvalue="Application.MainClass" />
       </list>
     </recent_temporary>
   </component>
