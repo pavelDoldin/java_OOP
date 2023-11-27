@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b336773d-c511-43bb-9908-ae977c54e0c9" name="Changes" comment="add_sem_3_2_dz">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sem_3_2_dz/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem_3_2_dz/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sem_4_dz/Apple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem_4_dz/Apple.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sem_4_dz/Box.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem_4_dz/Box.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sem_4_dz/Fruit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem_4_dz/Fruit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sem_4_dz/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem_4_dz/Program.java" afterDir="false" />
-    </list>
+    <list default="true" id="b336773d-c511-43bb-9908-ae977c54e0c9" name="Changes" comment="add_sem_3_2_dz" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
