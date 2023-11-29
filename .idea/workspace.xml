@@ -5,16 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b336773d-c511-43bb-9908-ae977c54e0c9" name="Changes" comment="add_sem_3_2_dz">
-      <change afterPath="$PROJECT_DIR$/src/sem_5_dz/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sem_5_dz/models/Reservation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sem_5_dz/models/Table.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sem_5_dz/models/TableModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sem_5_dz/presenters/BookingPresenter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sem_5_dz/presenters/Model.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sem_5_dz/presenters/View.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sem_5_dz/presenters/ViewObserver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sem_5_dz/views/BookingView.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sem_5_dz/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem_5_dz/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sem_5_dz/models/TableModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem_5_dz/models/TableModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sem_5_dz/presenters/BookingPresenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem_5_dz/presenters/BookingPresenter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sem_5_dz/presenters/Model.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem_5_dz/presenters/Model.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sem_5_dz/presenters/View.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem_5_dz/presenters/View.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sem_5_dz/presenters/ViewObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem_5_dz/presenters/ViewObserver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sem_5_dz/views/BookingView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem_5_dz/views/BookingView.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +29,19 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="0c9f0dc0-61bd-4cec-b498-e8398f215258" />
+        <option name="url" value="https://github.com/pavelDoldin/java_OOP.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectId" id="2WnxIT6osTyYM2s52C2xnVW64Ea" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">

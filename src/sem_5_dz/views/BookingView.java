@@ -19,6 +19,7 @@ public class BookingView implements View {
     }
 
 
+
     @Override
     public void showTables(Collection<Table> tables) {
 
@@ -26,6 +27,7 @@ public class BookingView implements View {
             System.out.println(table);
         }
     }
+
 
     @Override
     public void showReservationTableResult(int reservationNo) {
@@ -38,7 +40,12 @@ public class BookingView implements View {
         }
     }
 
-
+    /**
+     * Бронирование столика
+     * @param orderDate
+     * @param tableON
+     * @param name
+     */
     public void reservationTable(Date orderDate, int tableON, String name){
 
         System.out.println("Возбуждаеться события бронирования столика");
@@ -50,8 +57,29 @@ public class BookingView implements View {
 
     }
 
-    public void changeReservationTable(int oldReservation, Date orderDate, int tableON, String name){
+    @Override
+    public void showChangeReservationTable(int changeReservationNo) {
+        if ( changeReservationNo > 0 ) {
+            System.out.printf("Столик успешно перебронирован. Номер резерва %d\n", changeReservationNo);
+        }
+        else {
+            System.out.println("Произашла ошибка перебронирован повторите попытку позже ");
+        }
+    }
 
+    /**
+     * TODO: Сделать дома
+     * Изменение бронирования столика
+     * @param oldReservation
+     * @param orderDate
+     * @param tableON
+     * @param name
+     */
+    public void changeReservationTable(int oldReservation, Date orderDate, int tableON, String name){
+        System.out.println("Возбуждаеться перебронирования столика");
+        for (ViewObserver observer : observers){
+            observer.onChangeReservationTable(oldReservation, orderDate, tableON, name );
+        }
     }
 
 }

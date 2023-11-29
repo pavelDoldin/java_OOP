@@ -11,4 +11,10 @@ public interface Model {
 
     int reservationTable(Date reservationDate, int tableNo, String name);
 
+    /**
+     * Todo: И это дома ) 2
+     * @return
+     */
+    int changeReservationTable(int oldReservation, Date orderDate, int tableON, String name);
+
 }

@@ -40,9 +40,30 @@ public class TableModel implements Model {
 
     }
 
+
+
+    /**TODO : Сделать дама 4
+     * Удалить столик и зарезервировать новый столик
+     * @param oldReservation
+     * @param orderDate
+     * @param tableON
+     * @param name
+     * @return
+     */
     public int changeReservationTable(int oldReservation, Date orderDate, int tableON, String name){
-        return -1;
+        for (Table table : loadTables()) {
+            for (Reservation reservation : table.getReservations()) {
+                if (reservation.getId() == oldReservation) {
+                    System.out.println("Старая бронь удалена.");
+                }
+                else throw new RuntimeException("Некорректный номер брони.");
+            }
+        }
+
+        return reservationTable(orderDate, tableON, name);
+
     }
+
 
 }
 
