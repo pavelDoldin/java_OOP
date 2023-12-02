@@ -5,14 +5,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b336773d-c511-43bb-9908-ae977c54e0c9" name="Changes" comment="add_sem_3_2_dz">
+      <change afterPath="$PROJECT_DIR$/order.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem_6/task_1/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem_6/task_1/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem_6/task_1/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem_6/task_1/SquareDrawer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem_6/task_2/InputFromConsole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem_6/task_2/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem_6/task_2/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem_6/task_2/SaveToJson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem_6/task_3/CalcAreaService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem_6/task_3/CalcAreaServiceV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem_6/task_3/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem_6/task_3/CircleV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem_6/task_3/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem_6/task_3/RightTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem_6/task_3/RightTriangleV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem_6/task_3/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem_6/task_3/ShapeV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem_6/task_3/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem_6/task_3/SquareV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem_6/task_4/Birt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem_6/task_4/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem_6/task_4/Penguin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem_6/task_4/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem_6/task_5/CreditCardPaymentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem_6/task_5/CustomPaymentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem_6/task_5/InternetPaymentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem_6/task_5/PaymentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem_6/task_5/PaymentSrv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem_6/task_5/PhonePaymentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem_6/task_5/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem_6/task_5/WebMoneyPaymentService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sem_5_dz/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem_5_dz/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sem_5_dz/models/TableModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem_5_dz/models/TableModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sem_5_dz/presenters/BookingPresenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem_5_dz/presenters/BookingPresenter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sem_5_dz/presenters/Model.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem_5_dz/presenters/Model.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sem_5_dz/presenters/View.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem_5_dz/presenters/View.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sem_5_dz/presenters/ViewObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem_5_dz/presenters/ViewObserver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sem_5_dz/views/BookingView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem_5_dz/views/BookingView.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,19 +47,19 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -65,13 +90,13 @@
       <recent name="dz_1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.sem_5_dz.Program">
+  <component name="RunManager" selected="Application.sem_6.task_5.Program">
     <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sem_3_2_dz.Program" />
+      <option name="MAIN_CLASS_NAME" value="sem_6.task_4.Program" />
       <module name="java_OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sem_3_2_dz.*" />
+          <option name="PATTERN" value="sem_6.task_4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sem_3_1.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sem_3_1.Program" />
+    <configuration name="sem_6.task_1.task_1.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sem_6.task_1.task_1.Program" />
       <module name="java_OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sem_3_1.*" />
+          <option name="PATTERN" value="sem_6.task_1.task_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sem_4_1.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sem_4_1.Program" />
+    <configuration name="sem_6.task_2.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sem_6.task_2.Program" />
       <module name="java_OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sem_4_1.*" />
+          <option name="PATTERN" value="sem_6.task_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sem_4_dz.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sem_4_dz.Program" />
+    <configuration name="sem_6.task_3.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sem_6.task_3.Program" />
       <module name="java_OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sem_4_dz.*" />
+          <option name="PATTERN" value="sem_6.task_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sem_5_dz.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sem_5_dz.Program" />
+    <configuration name="sem_6.task_5.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sem_6.task_5.Program" />
       <module name="java_OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sem_5_dz.*" />
+          <option name="PATTERN" value="sem_6.task_5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.sem_5_dz.Program" />
-        <item itemvalue="Application.sem_4_dz.Program" />
+        <item itemvalue="Application.sem_6.task_5.Program" />
         <item itemvalue="Application.Program" />
-        <item itemvalue="Application.sem_4_1.Program" />
-        <item itemvalue="Application.sem_3_1.Program" />
+        <item itemvalue="Application.sem_6.task_3.Program" />
+        <item itemvalue="Application.sem_6.task_2.Program" />
+        <item itemvalue="Application.sem_6.task_1.task_1.Program" />
       </list>
     </recent_temporary>
   </component>
