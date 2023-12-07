@@ -5,38 +5,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b336773d-c511-43bb-9908-ae977c54e0c9" name="Changes" comment="add_sem_3_2_dz">
-      <change afterPath="$PROJECT_DIR$/order.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sem_6/task_1/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sem_6/task_1/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sem_6/task_1/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sem_6/task_1/SquareDrawer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sem_6/task_2/InputFromConsole.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sem_6/task_2/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sem_6/task_2/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sem_6/task_2/SaveToJson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sem_6/task_3/CalcAreaService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sem_6/task_3/CalcAreaServiceV2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sem_6/task_3/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sem_6/task_3/CircleV2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sem_6/task_3/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sem_6/task_3/RightTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sem_6/task_3/RightTriangleV2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sem_6/task_3/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sem_6/task_3/ShapeV2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sem_6/task_3/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sem_6/task_3/SquareV2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sem_6/task_4/Birt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sem_6/task_4/Duck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sem_6/task_4/Penguin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sem_6/task_4/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sem_6/task_5/CreditCardPaymentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sem_6/task_5/CustomPaymentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sem_6/task_5/InternetPaymentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sem_6/task_5/PaymentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sem_6/task_5/PaymentSrv.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sem_6/task_5/PhonePaymentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sem_6/task_5/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sem_6/task_5/WebMoneyPaymentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem_7/adapter/AdapterST500.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem_7/adapter/MS200.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem_7/adapter/MeteoSensor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem_7/adapter/MeteoStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem_7/adapter/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem_7/adapter/ST500.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem_7/adapter/SensorTemperature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem_7/builder/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem_7/builder/OrderBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem_7/builder/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem_7/factory/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem_7/factory/EmployeeType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem_7/factory/Freelancer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem_7/factory/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem_7/factory/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem_7/observer/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem_7/observer/JopAgency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem_7/observer/Master.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem_7/observer/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem_7/observer/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem_7/observer/Publisher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem_7/observer/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem_7/observer/TimLide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem_7/observer/Vacancy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem_7/observer/VacancyСreator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem_7/singleton/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem_7/singleton/Settings.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,8 +43,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -90,13 +87,20 @@
       <recent name="dz_1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.sem_6.task_5.Program">
+  <component name="RunManager" selected="Application.Program">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="java_OOP" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sem_6.task_4.Program" />
+      <option name="MAIN_CLASS_NAME" value="sem_7.observer.Program" />
       <module name="java_OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sem_6.task_4.*" />
+          <option name="PATTERN" value="sem_7.observer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sem_6.task_1.task_1.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sem_6.task_1.task_1.Program" />
+    <configuration name="sem_7.adapter.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sem_7.adapter.Program" />
       <module name="java_OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sem_6.task_1.task_1.*" />
+          <option name="PATTERN" value="sem_7.adapter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sem_6.task_2.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sem_6.task_2.Program" />
+    <configuration name="sem_7.builder.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sem_7.builder.Program" />
       <module name="java_OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sem_6.task_2.*" />
+          <option name="PATTERN" value="sem_7.builder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,25 +134,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sem_6.task_3.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sem_6.task_3.Program" />
+    <configuration name="sem_7.factory.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sem_7.factory.Program" />
       <module name="java_OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sem_6.task_3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="sem_6.task_5.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sem_6.task_5.Program" />
-      <module name="java_OOP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sem_6.task_5.*" />
+          <option name="PATTERN" value="sem_7.factory.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.sem_6.task_5.Program" />
         <item itemvalue="Application.Program" />
-        <item itemvalue="Application.sem_6.task_3.Program" />
-        <item itemvalue="Application.sem_6.task_2.Program" />
-        <item itemvalue="Application.sem_6.task_1.task_1.Program" />
+        <item itemvalue="Application.sem_7.builder.Program" />
+        <item itemvalue="Application.sem_7.adapter.Program" />
+        <item itemvalue="Application.sem_7.factory.Program" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
