@@ -1,8 +1,6 @@
 package sem_4_1;
 
-public abstract class Account<T
-
-        > {
+public abstract class Account<T> {
 
     /**
      * Инфа Клиента

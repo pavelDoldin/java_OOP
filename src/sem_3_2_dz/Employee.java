@@ -65,6 +65,7 @@ public abstract class Employee implements Comparable<Employee> {
 
     @Override
     public String toString() {
-       return String.format("%s %s: возраст: %d ставка в час %.2f в месяц %.2f ", surName, name, age, salary, calculateSalary());
+       return String.format("%s %s: возраст: %d ставка в час %.2f в месяц %.2f ",
+               surName, name, age, salary, calculateSalary());
     }
 }
